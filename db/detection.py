@@ -1,4 +1,4 @@
-from db.base import BASE
+from base import BASE
 import numpy as np
 
 class DETECTION(BASE):

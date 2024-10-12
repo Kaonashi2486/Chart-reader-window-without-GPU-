@@ -1,4 +1,4 @@
-from db.coco import Chart
+from coco import Chart
 
 datasets = {
     "Chart": Chart
